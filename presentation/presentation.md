@@ -135,6 +135,22 @@ We replace the chaotic, manipulative digital world with a curated, intentional l
 ---
 
 <!--
+_header: 'Decentralized Education: Raising Learners Without Borders'
+-->
+
+![bg right:40%](https://images.unsplash.com/photo-1501785888041-af3ef285b470?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80)
+
+CETR is the ideal engine for **Worldschooling** and mobile learning.
+
+- 🌍 **Portability:** Carry a "Library of Alexandria" on a laptop—functional anywhere.
+- 🏞️ **Context-Rich:** Turn every new environment into a laboratory for testing conjectures.
+- ⚓ **Epistemological Anchor:** Provides a rigorous methodology even when physical settings change.
+
+**Reality is the ultimate classroom.**
+
+---
+
+<!--
 _header: 'Your Role: From "Teacher" to "Co-Explorer"'
 -->
 

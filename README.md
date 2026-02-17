@@ -1,77 +1,59 @@
-# CETR: Curiosity-Driven Education Through Critical Rationalism
+# CETR: Raising The Next Generation of Creators 🚀
 
-## Empowering Children as Active Knowledge Creators
+**The school system was built for the Industrial Age. CETR is built for the Age of AI.**
 
-**Visit our Project Website:** [https://cetr.vercel.app/](https://cetr.vercel.app/)
-
----
-
-### What is CETR?
-
-CETR (Conjecture → Explanation → Testing → Refinement) is a revolutionary learning framework designed for homeschooling (ages 3-14). It is built upon the robust philosophical foundations of Karl Popper's epistemology of error correction and David Deutsch's theory of knowledge creation (critical rationalism).
-
-Unlike traditional educational models that often treat children as passive recipients of information, CETR positions them as active participants in the exhilarating process of knowledge creation. We believe that true learning flourishes through bold ideas, critical reasoning, and iterative improvement.
+CETR (Conjecture → Explanation → Testing → Refinement) is a learning framework that turns children from **passive consumers** of information into **active creators** of knowledge. 
 
 ---
 
-### The Problem We're Solving
+## 💡 Why CETR?
 
-Modern education faces a dual challenge:
+Most education treats children like "empty buckets" to be filled with facts. We do the opposite. We treat children as **Universal Explainers** who learn best by solving real problems and correcting their own mistakes.
 
-1.  **The "Empty Vessel" Paradigm:** Traditional schooling often prioritizes rote memorization and passive information absorption, stifling independent thinking, error-correction skills, and creative problem-solving.
-2.  **The Digital Distraction Crisis:** Today's children are constantly bombarded by algorithmic feeds, infinite scrolls, and recommendation systems designed for engagement, not deep learning. This environment leads to shortened attention spans, passive consumption, and narrowed curiosity.
-
----
-
-### The CETR Solution: A Cycle of Discovery
-
-CETR addresses these challenges by replacing passive learning with an active, iterative cycle:
-
-*   **C - Conjecture:** Children are encouraged to propose bold ideas, solutions, or hypotheses, no matter how "wild" they may seem initially. Creativity is paramount.
-*   **E - Explanation:** Children articulate *why* they believe their conjectures work, moving from simple description to deeper causal understanding.
-*   **T - Testing:** Ideas confront reality, logic, or existing knowledge through experiments, observation, and critical examination. Reality, not adult authority, is the ultimate judge.
-*   **R - Refinement:** Based on test results and discovered errors, conjectures are refined, modified, or replaced. Learning is driven by error elimination and continuous improvement.
-
-**In CETR, being wrong is not a failure; it's the engine of learning.**
+*   **Stop the "Digital Distraction":** We replace addictive algorithmic feeds with a curated, offline-first digital library.
+*   **Encourage Bold Thinking:** We reward children for making bold guesses (Conjectures) and then help them find the "Why" (Explanations).
+*   **Reality as the Teacher:** No more "because I said so." We use experiments and logic (Testing) to let reality be the judge.
 
 ---
 
-### Key Components of the CETR Ecosystem
+## 🗺️ Where to Start?
 
-1.  **Offline Digital Library:**
-    *   A curated, distraction-free environment free from algorithms, ads, tracking, and social pressure.
-    *   Includes a full offline copy of Wikipedia (Kiwix), Project Gutenberg books, curated educational YouTube videos, and various open-source creative tools (Scratch, Python, GeoGebra).
-    *   **Goal:** To provide a "safe harbor" of rich, deep content that encourages intentional browsing and active exploration.
+We've organized this project to help you go from "curious parent" to "confident facilitator."
 
-2.  **Local LLM Integration:**
-    *   A privacy-preserving, Retrieval-Augmented Generation (RAG) system using a local Large Language Model.
-    *   Operates entirely offline, querying only the curated digital library.
-    *   **Role:** Acts as a Socratic questioner, never giving direct answers, but instead prompting children to form their own conjectures, explanations, and test ideas.
+### 📖 1. Core Guides (How to Start)
+*   **[Parent Manifesto](./guides/01_parent_manifesto.md):** The 5-minute explanation of why this matters.
+*   **[The Master Guide](./guides/02_master_guide.md):** A simple, one-page cheat sheet on how the cycle works.
+*   **[Facilitator's Cookbook](./guides/03_facilitator_cookbook.md):** What to say (and what NOT to say) to keep curiosity alive.
+*   **[Daily Routine](./guides/04_daily_routine.md):** How to structure your day and measure success without tests.
 
-3.  **The Facilitator's Role:**
-    *   Parents and educators serve as "co-explorers," "critics of ideas" (not the child), and guides for designing tests.
-    *   **Emphasis:** Asking probing questions (e.g., "Why do you think that?", "How could we test that?") rather than providing direct answers.
+### 🧠 2. Deep Dives (The Philosophy)
+*   **[Philosophy Overview](./theory/01_philosophy_overview.md):** The "Why" behind the framework.
+*   **[CETR vs Montessori & Waldorf](./theory/02_comparative_philosophy.md):** Why CETR is the next evolutionary leap.
+*   **[The Ultimate Synthesis](./theory/03_the_synthesis.md):** How we combine TCS, CETR, and Edventures Studio.
 
-4.  **"Daily Spark" Feature:**
-    *   A simple script that provides a daily curiosity-sparking problem or question to prompt engagement with the CETR cycle.
-    *   **Goal:** To provide a consistent, gentle nudge towards active inquiry and knowledge creation.
-
-5.  **Facilitator's Cookbook:**
-    *   A practical guide for parents and educators with domain-specific question prompts, strategies for handling roadblocks, and examples of effective LLM Socratic prompting.
-    *   **Goal:** To empower facilitators with the tools and techniques needed to effectively guide CETR sessions.
+### 🌟 3. Real Examples & Implementation
+*   **[Hard-to-Vary Examples](./examples/01_hard_to_vary.md):** Deep learning in action (Architecture, Biology, Economics).
+*   **[Worldschooling](./examples/02_worldschooling.md):** Using CETR for mobile life and travel.
+*   **[Technical Setup](./implementation/01_technical_setup.md):** Build a distraction-free "Offline Library" on a budget.
+*   **[Edventures Integration](./implementation/02_edventures_integration.md):** How to bring CETR into maker-spaces.
 
 ---
 
-### Getting Started
+## 🔄 The 4-Step Cycle
 
-The CETR system is designed for replication by parents and educators with minimal technical expertise. It runs on consumer hardware using open-source software. A detailed implementation guide will walk you through the setup of your offline digital library and local LLM.
+1.  **Conjecture:** Make a bold guess.
+2.  **Explanation:** Explain *why* you think it works.
+3.  **Testing:** Try to prove the guess wrong.
+4.  **Refinement:** Improve the idea based on what happened.
+
+**In CETR, being wrong isn't a failure—it's the engine of learning.**
 
 ---
 
-### Contributing
-
-We welcome contributions to the CETR project! Whether you're a developer, educator, philosopher, or parent, your insights and efforts can help refine and expand this framework. Please refer to our `CONTRIBUTING.md` (coming soon) for details.
+### 🌐 Learn More
+*   **Website:** [cetr.vercel.app](https://cetr.vercel.app/)
+*   **Philosophy:** [takingchildrenseriously.com](https://takingchildrenseriously.com/)
+*   **Community:** [edventures.studio](https://edventures.studio/)
 
 ---
-
-> **Note:** The structure of this project and the creation/modification of its files were performed using the Gemini CLI interactive agent.
+*Developed with ❤️ to empower the next generation of thinkers.*
