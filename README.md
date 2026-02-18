@@ -1,59 +1,40 @@
-# CETR: Raising The Next Generation of Creators 🚀
+# Sovereign Learning: The CETR + TCS + Edventures Ecosystem
 
-**The school system was built for the Industrial Age. CETR is built for the Age of AI.**
-
-CETR (Conjecture → Explanation → Testing → Refinement) is a learning framework that turns children from **passive consumers** of information into **active creators** of knowledge. 
+Welcome to the future of learning. This project provides a holistic framework for raising **Universal Explainers**—children who are emotionally secure, intellectually rigorous, and physically capable of navigating an AI-driven world.
 
 ---
 
-## 💡 Why CETR?
+## 🧭 The Three Pillars
 
-Most education treats children like "empty buckets" to be filled with facts. We do the opposite. We treat children as **Universal Explainers** who learn best by solving real problems and correcting their own mistakes.
-
-*   **Stop the "Digital Distraction":** We replace addictive algorithmic feeds with a curated, offline-first digital library.
-*   **Encourage Bold Thinking:** We reward children for making bold guesses (Conjectures) and then help them find the "Why" (Explanations).
-*   **Reality as the Teacher:** No more "because I said so." We use experiments and logic (Testing) to let reality be the judge.
+1.  **CETR (Intellectual):** Conjecture, Explanation, Testing, Refinement. The engine of knowledge creation.
+2.  **TCS (Moral):** Taking Children Seriously. A non-coercive philosophy based on consent and agency.
+3.  **Edventures Studio (Physical):** The "Learning Village"—a community and maker-space for builder families.
 
 ---
 
-## 🗺️ Where to Start?
+## 📂 Project Structure
 
-We've organized this project to help you go from "curious parent" to "confident facilitator."
+### [1. Philosophy](./1_philosophy/)
+*   **[The Pitch](./1_philosophy/the_pitch.md):** Why this is the "Third Way" for modern education.
+*   **[The Synthesis](./1_philosophy/the_synthesis.md):** How the three pillars create a coherent whole.
+*   **[Future Proofing](./1_philosophy/future_proofing.md):** Why CETR is the ultimate insurance against AI.
 
-### 📖 1. Core Guides (How to Start)
-*   **[Parent Manifesto](./guides/01_parent_manifesto.md):** The 5-minute explanation of why this matters.
-*   **[The Master Guide](./guides/02_master_guide.md):** A simple, one-page cheat sheet on how the cycle works.
-*   **[Facilitator's Cookbook](./guides/03_facilitator_cookbook.md):** What to say (and what NOT to say) to keep curiosity alive.
-*   **[Daily Routine](./guides/04_daily_routine.md):** How to structure your day and measure success without tests.
+### [2. Practice](./2_practice/)
+*   **[Daily Routine](./2_practice/daily_routine.md):** The 15-15-15 framework for working families.
+*   **[Facilitator's Cookbook](./2_practice/facilitator_cookbook.md):** How to guide curiosity without teaching.
+*   **[Daily Sparks Library](./2_practice/daily_sparks_library.md):** 50+ prompts to launch your first conjecture.
 
-### 🧠 2. Deep Dives (The Philosophy)
-*   **[Philosophy Overview](./theory/01_philosophy_overview.md):** The "Why" behind the framework.
-*   **[CETR vs Montessori & Waldorf](./theory/02_comparative_philosophy.md):** Why CETR is the next evolutionary leap.
-*   **[The Ultimate Synthesis](./theory/03_the_synthesis.md):** How we combine TCS, CETR, and Edventures Studio.
-
-### 🌟 3. Real Examples & Implementation
-*   **[Hard-to-Vary Examples](./examples/01_hard_to_vary.md):** Deep learning in action (Architecture, Biology, Economics).
-*   **[Worldschooling](./examples/02_worldschooling.md):** Using CETR for mobile life and travel.
-*   **[Technical Setup](./implementation/01_technical_setup.md):** Build a distraction-free "Offline Library" on a budget.
-*   **[Edventures Integration](./implementation/02_edventures_integration.md):** How to bring CETR into maker-spaces.
+### [3. Implementation](./3_implementation/)
+*   **[Refinement Log Template](./3_implementation/refinement_log_template.md):** The primary tool for tracking progress.
+*   **[Technical Setup](./3_implementation/technical_setup.md):** Building your offline "Safe Harbor" server.
+*   **[30-Day Quickstart](./3_implementation/quickstart_30_day.md):** A roadmap for your first month.
 
 ---
 
-## 🔄 The 4-Step Cycle
+## 🚀 Getting Started
 
-1.  **Conjecture:** Make a bold guess.
-2.  **Explanation:** Explain *why* you think it works.
-3.  **Testing:** Try to prove the guess wrong.
-4.  **Refinement:** Improve the idea based on what happened.
+1.  **Read [The Pitch](./1_philosophy/the_pitch.md)** to understand the "Why."
+2.  **Pick a [Daily Spark](./2_practice/daily_sparks_library.md)** and launch a conjecture at breakfast.
+3.  **Print the [Refinement Log](./3_implementation/refinement_log_template.md)** to start capturing knowledge creation.
 
-**In CETR, being wrong isn't a failure—it's the engine of learning.**
-
----
-
-### 🌐 Learn More
-*   **Website:** [cetr.vercel.app](https://cetr.vercel.app/)
-*   **Philosophy:** [takingchildrenseriously.com](https://takingchildrenseriously.com/)
-*   **Community:** [edventures.studio](https://edventures.studio/)
-
----
-*Developed with ❤️ to empower the next generation of thinkers.*
+**"We aren't just raising students. We are raising the next generation of Universal Explainers."**
