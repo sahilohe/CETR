@@ -38,3 +38,11 @@ Welcome to the future of learning. This project provides a holistic framework fo
 3.  **Print the [Refinement Log](./3_implementation/refinement_log_template.md)** to start capturing knowledge creation.
 
 **"We aren't just raising students. We are raising the next generation of Universal Explainers."**
+
+---
+
+## 🔗 Project Links
+
+*   **CETR (Epistemology):** [cetr.vercel.app](https://cetr.vercel.app/)
+*   **TCS (Philosophy):** [takingchildrenseriously.com](https://takingchildrenseriously.com/)
+*   **Edventures Studio (Community):** [edventures.studio](https://edventures.studio/)
