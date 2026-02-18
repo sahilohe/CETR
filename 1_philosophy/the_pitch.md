@@ -1,8 +1,8 @@
 # The Sovereign Learner: Raising Creators in the Age of AI
 
-Most parents feel a deep, nagging intuition: **The current educational system is broken.** We see children’s natural curiosity—the "Why?" phase—slowly extinguished by the pressure of grades, the boredom of rote memorization, and the addictive pull of algorithmic feeds. 
+Most parents feel a deep, nagging intuition: **The current educational system is broken.** We see children’s natural curiosity, the "Why?" phase, slowly extinguished by the pressure of grades, the boredom of rote memorization, and the addictive pull of algorithmic feeds. 
 
-Our ecosystem—**CETR + TCS + Edventures Studio**—is the "Third Way." It isn't just "Unschooling"; it is **Sovereign Learning.**
+Our ecosystem, **CETR + TCS + Edventures Studio**, is the "Third Way." It isn't just "Unschooling"; it is **Sovereign Learning.**
 
 ---
 
@@ -15,7 +15,7 @@ To raise a child who can thrive in the 21st century, we move away from the "Indu
     *   **How it works:** We treat children like scientists. They form **Conjectures** (bold guesses), seek **Explanations** (the "Why"), **Test** them against reality, and **Refine** them based on what they learn.
 2.  **Morally: TCS (The Moral Bedrock)**
     *   **The Shift:** From *Coercion* to *Consent*.
-    *   **How it works:** We treat children as full people whose autonomy is respected. We replace rewards, punishments, and "because I said so" with the pursuit of **Common Preferences**—solutions where everyone is genuinely happy.
+    *   **How it works:** We treat children as full people whose autonomy is respected. We replace rewards, punishments, and "because I said so" with the pursuit of **Common Preferences**, solutions where everyone is genuinely happy.
 3.  **Environmentally: Edventures Studio (The Physical Village)**
     *   **The Shift:** From *Isolated Classrooms* to *Builder Communities*.
     *   **How it works:** A "Field Lab" with "Offline-First" digital libraries (distraction-free), maker-spaces, and a community of "Builder Families" to learn alongside.

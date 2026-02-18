@@ -17,7 +17,7 @@ In the 21st century, the rewards go to people who can:
 2.  **Form a bold conjecture** for a solution.
 3.  **Correct their own errors** without needing a supervisor.
 
-This is exactly what **CETR + TCS** trains. A child raised in this ecosystem doesn't have "knowledge"—they have a **knowledge-creating engine.**
+This is exactly what **CETR + TCS** trains. A child raised in this ecosystem doesn't have "knowledge", they have a **knowledge-creating engine.**
 
 ### 3. The University Perspective
 Top-tier universities (Stanford, MIT, Harvard) are seeing a "crisis of the perfect student." They have thousands of applicants with 4.0 GPAs who have no internal drive.
@@ -38,4 +38,3 @@ If your child wants to build a company, traditional school is often counter-prod
 *   **Traditional School:** Trains your child to be a **Consumer of Knowledge.** (High risk of AI replacement).
 *   **Sovereign Learning:** Trains your child to be a **Creator of Explanations.** (High value in an automated world).
 
-**We aren't lowering the bar; we are changing the game.**
